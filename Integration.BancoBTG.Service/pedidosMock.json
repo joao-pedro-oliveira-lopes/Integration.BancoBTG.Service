@@ -1,0 +1,164 @@
+[
+  {
+    "PedidoId": 1,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 1,
+        "Produto": "Produto A",
+        "Quantidade": 2,
+        "PrecoUnitario": 10.50
+      },
+      {
+        "ItemPedidoId": 2,
+        "Produto": "Produto B",
+        "Quantidade": 1,
+        "PrecoUnitario": 5.00
+      }
+    ]
+  },
+  {
+    "PedidoId": 2,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 3,
+        "Produto": "Produto C",
+        "Quantidade": 3,
+        "PrecoUnitario": 7.20
+      },
+      {
+        "ItemPedidoId": 4,
+        "Produto": "Produto D",
+        "Quantidade": 2,
+        "PrecoUnitario": 15.00
+      }
+    ]
+  },
+  {
+    "PedidoId": 3,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 5,
+        "Produto": "Produto C",
+        "Quantidade": 3,
+        "PrecoUnitario": 9.20
+      },
+      {
+        "ItemPedidoId": 6,
+        "Produto": "Produto 5",
+        "Quantidade": 2,
+        "PrecoUnitario": 13.00
+      }
+    ]
+  },
+  {
+    "PedidoId": 4,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 7,
+        "Produto": "Produto 12",
+        "Quantidade": 3,
+        "PrecoUnitario": 9.20
+      },
+      {
+        "ItemPedidoId": 8,
+        "Produto": "Produto 36",
+        "Quantidade": 2,
+        "PrecoUnitario": 13.00
+      }
+    ]
+  },
+  {
+    "PedidoId": 5,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 9,
+        "Produto": "Produto 13",
+        "Quantidade": 3,
+        "PrecoUnitario": 12.60
+      },
+      {
+        "ItemPedidoId": 10,
+        "Produto": "Produto 37",
+        "Quantidade": 2,
+        "PrecoUnitario": 9.20
+      }
+    ]
+  },
+  {
+    "PedidoId": 6,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 11,
+        "Produto": "Produto 15",
+        "Quantidade": 3,
+        "PrecoUnitario": 12.60
+      },
+      {
+        "ItemPedidoId": 12,
+        "Produto": "Produto 29",
+        "Quantidade": 2,
+        "PrecoUnitario": 9.20
+      }
+    ]
+  },
+  {
+    "PedidoId": 7,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 13,
+        "Produto": "Produto 16",
+        "Quantidade": 3,
+        "PrecoUnitario": 12.60
+      },
+      {
+        "ItemPedidoId": 14,
+        "Produto": "Produto 30",
+        "Quantidade": 2,
+        "PrecoUnitario": 9.20
+      }
+    ]
+  },
+  {
+    "PedidoId": 8,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 44,
+        "Produto": "Produto 20",
+        "Quantidade": 3,
+        "PrecoUnitario": 11.60
+      },
+      {
+        "ItemPedidoId": 55,
+        "Produto": "Produto 31",
+        "Quantidade": 2,
+        "PrecoUnitario": 10.20
+      }
+    ]
+  },
+  {
+    "PedidoId": 8,
+    "ClienteId": 100,
+    "Itens": [
+      {
+        "ItemPedidoId": 44,
+        "Produto": "Produto 20",
+        "Quantidade": 3,
+        "PrecoUnitario": 11.60
+      },
+      {
+        "ItemPedidoId": 55,
+        "Produto": "Produto 31",
+        "Quantidade": 2,
+        "PrecoUnitario": 10.20
+      }
+    ]
+  }
+]
